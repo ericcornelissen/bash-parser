@@ -4,6 +4,8 @@ A fork of [`vorpaljs/bash-parser`](https://github.com/vorpaljs/bash-parser) - Pa
 
 This fork is focussed at dependency maintenance and will not receive any updates beyond that. No new features, no bug (nor security) fixes.
 
+All (relevant) changes of this fork are being upstreamed at <https://github.com/vorpaljs/bash-parser/pull/66>.
+
 # Installation
 
 ```bash
