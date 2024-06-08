@@ -1,6 +1,6 @@
 {
   "name": "@ericcornelissen/bash-parser",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "main": "src/index.js",
   "description": "Standard compliant bash parser",
   "repository": {
