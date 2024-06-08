@@ -25,7 +25,9 @@ jobs:
           node-version-file: .nvmrc
           registry-url: https://registry.npmjs.org
       - name: Install dependencies
-        run: npm clean-install
+        run: npm install
+      - name: Build
+        run: npm run build
       - name: Publish to npm
         continue-on-error: true
         env:
