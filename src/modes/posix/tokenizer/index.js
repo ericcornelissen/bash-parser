@@ -1,5 +1,4 @@
 'use strict';
-const deepFreeze = require('deep-freeze');
 const last = require('array-last');
 
 const defaultFields = reducers => ({
@@ -16,7 +15,6 @@ const defaultFields = reducers => ({
 const mkImmutableState = reducers => class ImmutableState {
 	constructor(fields) {
 		Object.assign(this, fields || defaultFields(reducers));
-		deepFreeze(this);
 	}
 
 	setLoc(loc) {
