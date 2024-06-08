@@ -1,5 +1,5 @@
 'use strict';
-const filterIterator = require('filter-iterator');
+const filterIterator = require('../vendored/filter-iterator');
 const reverse = require('reverse-arguments');
 const curry = require('lodash.curry');
 
