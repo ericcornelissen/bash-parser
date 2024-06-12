@@ -55,5 +55,5 @@ Look in [documents folder](https://github.com/vorpaljs/bash-parser/tree/master/d
 
 The MIT License (MIT)
 
-Copyright (c) 2016-2022 vorpaljs
-Copyright (c) 2023-2024 ericcornelissen, sockmaster27
+- Copyright (c) 2016-2022 vorpaljs
+- Copyright (c) 2023-2024 ericcornelissen, sockmaster27

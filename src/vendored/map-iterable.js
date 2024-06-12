@@ -42,8 +42,8 @@ function map(options, data) {
 module.exports = curry(map);
 
 // This code was taken from:
-// - https://www.npmjs.com/package/map-iterable (v2.0.0)
-// - https://github.com/parro-it/map-iterable (511d8c00383f851c5f1be242767649a0072db84d)
+// - https://www.npmjs.com/package/map-iterable (v1.0.1)
+// - https://github.com/parro-it/map-iterable (b587a8a905efa5da5f695e367399a6a21800b7c3)
 // which is available under the MIT license, full license text below.
 //
 // It was modified to use lodash.curry instead of hughfdjackson's curry
@@ -51,7 +51,8 @@ module.exports = curry(map);
 
 // The MIT License (MIT)
 //
-// Copyright (c) 2016 Andrea Parodi
+// Copyright (c) 2016-2022 Andrea Parodi
+// Copyright (c) 2023 Eric Cornelissen
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal

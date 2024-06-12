@@ -23,7 +23,8 @@ module.exports = curry(replace);
 
 // MIT License
 //
-// Copyright (c) 2016 Andrea Parodi
+// Copyright (c) 2016-2022 Andrea Parodi
+// Copyright (c) 2023 Eric Cornelissen
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
