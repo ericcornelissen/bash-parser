@@ -1,5 +1,5 @@
 'use strict';
-const map = require('../../../vendored/map-iterable');
+const map = require('map-iterable');
 
 module.exports = function syntaxerrorOnContinue() {
 	return map(tk => {

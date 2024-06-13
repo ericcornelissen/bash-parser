@@ -1,6 +1,6 @@
 'use strict';
 const hasOwnProperty = require('has-own-property');
-const map = require('../../../vendored/map-iterable');
+const map = require('map-iterable');
 const tokens = require('../../../utils/tokens');
 
 const reduceToOperatorTokenVisitor = operators => ({

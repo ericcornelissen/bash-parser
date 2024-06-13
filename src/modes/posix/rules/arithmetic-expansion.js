@@ -1,7 +1,7 @@
 'use strict';
 /* eslint-disable camelcase */
 
-const map = require('../../../vendored/map-iterable');
+const map = require('map-iterable');
 const babylon = require('babylon');
 const MagicString = require('magic-string');
 const tokens = require('../../../utils/tokens');

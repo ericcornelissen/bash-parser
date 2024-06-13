@@ -53,6 +53,7 @@
     "iterable-lookahead": "^1.0.0",
     "lodash.curry": "^4.1.1",
     "magic-string": "^0.16.0",
+    "map-iterable": "^2.0.0",
     "map-obj": "^2.0.0",
     "object-pairs": "^0.1.0",
     "object-values": "^1.0.0",

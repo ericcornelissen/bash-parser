@@ -2,7 +2,7 @@
 
 const compose = require('compose-function');
 const identity = require('identity-function');
-const map = require('../../../vendored/map-iterable');
+const map = require('map-iterable');
 const merge = require('../../../vendored/transform-spread-iterable');
 const tokens = require('../../../utils/tokens');
 

@@ -1,6 +1,6 @@
 'use strict';
 
-const map = require('../../../vendored/map-iterable');
+const map = require('map-iterable');
 const merge = require('../../../vendored/transform-spread-iterable');
 const compose = require('compose-function');
 const mkFieldSplitToken = require('../../../utils/tokens').mkFieldSplitToken;

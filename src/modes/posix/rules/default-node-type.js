@@ -1,7 +1,7 @@
 'use strict';
 
 const toPascal = require('to-pascal-case');
-const map = require('../../../vendored/map-iterable');
+const map = require('map-iterable');
 
 module.exports = () => map(token => {
 	const tk = Object.assign({}, token);
